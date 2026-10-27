@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1870" viewBox="0 0 1920 1870" role="img" aria-labelledby="title desc">
 <title id="title">经济金融机器学习：课件关系图</title>
-<desc id="desc">十一份课件。上层从导论到 AI 底座与提示词、CLAUDE 规则与任务规划、Skill 与子代理。下层第四讲依次学习 Notebook 与 DataFrame 入门、数据规范与 GitHub 协作、清洗连接与样本检查、变量统计与结果交付、面板与时间对齐。金色箭头表示学习顺序，青绿色箭头表示 04-3 的同一企业横截面表交给 04-4。04-5 另用年度模拟数据及日度、财报案例。第三层为 05-1 因子与因子模型理论基础及 05-2 中国量化历史与研究流程；05-1 使用美国 FF3 与动量真实月度数据。</desc>
+<desc id="desc">十一份课件。上层从导论到 AI 底座与提示词、CLAUDE 规则与任务规划、Skill 与子代理。下层第四讲依次学习 Notebook 与 DataFrame 入门、数据规范与 GitHub 协作、清洗连接与样本检查、变量统计与结果交付、面板与时间对齐。金色箭头表示学习顺序，青绿色箭头表示 04-3 的同一企业横截面表交给 04-4。04-5 另用年度模拟数据及日度、财报案例。第三层为 05-1 因子与因子模型理论基础及 05-2 量化投资导论；05-1 使用美国 FF3 与动量真实月度数据。</desc>
 <defs>
   <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#3E2028" flood-opacity="0.035"/></filter>
   <marker id="arrow-gold" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M 2 2 L 8 6 L 2 10" fill="none" stroke="#D4B48C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
@@ -92,7 +92,7 @@
 <text x="1648" y="1132" font-size="29" class="muted" text-anchor="middle">另用年度模拟数据</text>
 <text x="1648" y="1176" font-size="29" class="muted" text-anchor="middle">及日度、财报案例</text>
 <line x1="960" y1="1266" x2="960" y2="1296" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
-<text x="960" y="1335" font-size="30" class="muted" text-anchor="middle">从数据观察进入因子理论与研究流程</text>
+<text x="960" y="1335" font-size="30" class="muted" text-anchor="middle">从数据观察进入因子理论与量化投资</text>
 <rect x="96" y="1370" width="1728" height="370" rx="38" fill="#F7F1DE"/>
 <text x="124" y="1433" font-size="38" class="heading" text-anchor="start">因子与量化研究</text>
 <text x="1796" y="1433" font-size="28" class="muted" text-anchor="end">第五讲 · 当前提供 05-1、05-2</text>
@@ -106,8 +106,8 @@
 <g id="course-05-2">
 <rect x="1036" y="1464" width="760" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
 <text x="1064" y="1514" font-size="30" class="teal" text-anchor="start" font-weight="600">05-2</text>
-<text x="1064" y="1568" font-size="38" class="heading" text-anchor="start">中国量化历史与研究流程</text>
-<text x="1064" y="1678" font-size="29" class="muted" text-anchor="start">历史节点、研究步骤与证据边界</text>
+<text x="1064" y="1568" font-size="38" class="heading" text-anchor="start">量化投资导论</text>
+<text x="1064" y="1678" font-size="29" class="muted" text-anchor="start">定义、历史、策略、市场与研究流程</text>
 </g>
 <line x1="100" y1="1808" x2="135" y2="1808" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
 <text x="150" y="1818" font-size="28" class="muted" text-anchor="start">学习顺序</text>
