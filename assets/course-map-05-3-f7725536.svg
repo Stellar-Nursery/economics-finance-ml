@@ -1,0 +1,126 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="1870" viewBox="0 0 1920 1870" role="img" aria-labelledby="title desc">
+<title id="title">经济金融机器学习：课件关系图</title>
+<desc id="desc">十二份课件。上层从导论到 AI 底座与提示词、CLAUDE 规则与任务规划、Skill 与子代理。下层第四讲依次学习 Notebook 与 DataFrame 入门、数据规范与 GitHub 协作、清洗连接与样本检查、变量统计与结果交付、面板与时间对齐。金色箭头表示学习顺序，青绿色箭头表示 04-3 的同一企业横截面表交给 04-4。04-5 另用年度模拟数据及日度、财报案例。第三层依次为 05-1 因子与因子模型理论基础、05-2 量化投资导论、05-3 因子评估、组合回测与机器学习入口；05-1 使用美国 FF3 与动量真实月度数据。</desc>
+<defs>
+  <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#3E2028" flood-opacity="0.035"/></filter>
+  <marker id="arrow-gold" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M 2 2 L 8 6 L 2 10" fill="none" stroke="#D4B48C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <marker id="arrow-teal" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M 2 2 L 8 6 L 2 10" fill="none" stroke="#35665F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
+  <style>text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif; } .heading { fill: #3E2028; font-weight: 600; } .muted { fill: #76675D; } .teal { fill: #35665F; }</style>
+</defs>
+<rect width="1920" height="1870" fill="#FDF8E8"/>
+
+<text x="96" y="156" font-size="82" class="heading" text-anchor="start">经济金融机器学习</text>
+<text x="100" y="218" font-size="34" class="muted" text-anchor="start">先学会与 AI 协作，再处理数据，进入因子研究。</text>
+<text x="96" y="320" font-size="38" class="heading" text-anchor="start">AI 协作方法</text>
+<text x="1824" y="320" font-size="28" class="muted" text-anchor="end">00—03</text>
+<g id="course-00">
+<rect x="96" y="360" width="390" height="224" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="124" y="410" font-size="30" class="teal" text-anchor="start" font-weight="600">00</text>
+<text x="124" y="464" font-size="38" class="heading" text-anchor="start">导论</text>
+<text x="124" y="556" font-size="29" class="muted" text-anchor="start">认识课程与数据任务</text>
+</g>
+<line x1="501" y1="472" x2="524" y2="472" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-01">
+<rect x="542" y="360" width="390" height="224" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="570" y="410" font-size="30" class="teal" text-anchor="start" font-weight="600">01</text>
+<text x="570" y="464" font-size="38" class="heading" text-anchor="start">AI底座与</text>
+<text x="570" y="510" font-size="38" class="heading" text-anchor="start">提示词起步</text>
+<text x="570" y="556" font-size="29" class="muted" text-anchor="start">认识 AI，写清任务</text>
+</g>
+<line x1="947" y1="472" x2="970" y2="472" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-02">
+<rect x="988" y="360" width="390" height="224" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1016" y="410" font-size="30" class="teal" text-anchor="start" font-weight="600">02</text>
+<text x="1016" y="464" font-size="38" class="heading" text-anchor="start">CLAUDE规则</text>
+<text x="1016" y="510" font-size="38" class="heading" text-anchor="start">与任务规划</text>
+<text x="1016" y="556" font-size="29" class="muted" text-anchor="start">规则、计划与反馈</text>
+</g>
+<line x1="1393" y1="472" x2="1416" y2="472" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-03">
+<rect x="1434" y="360" width="390" height="224" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1462" y="410" font-size="30" class="teal" text-anchor="start" font-weight="600">03</text>
+<text x="1462" y="464" font-size="38" class="heading" text-anchor="start">Skill与</text>
+<text x="1462" y="510" font-size="38" class="heading" text-anchor="start">子代理设计</text>
+<text x="1462" y="556" font-size="29" class="muted" text-anchor="start">复用方法，分工审阅</text>
+</g>
+<line x1="960" y1="596" x2="960" y2="626" stroke="#D4B48C" stroke-width="2.4" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<text x="960" y="669" font-size="30" class="muted" text-anchor="middle">把规则、Skill 和审阅用于下面的数据实践</text>
+<rect x="96" y="712" width="1728" height="540" rx="38" fill="#F7F1DE"/>
+<text x="124" y="781" font-size="38" class="heading" text-anchor="start">数据处理实践</text>
+<text x="1796" y="781" font-size="28" class="muted" text-anchor="end">第四讲 · 五个部分</text>
+<g id="course-04-1">
+<rect x="124" y="824" width="296" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="152" y="874" font-size="30" class="teal" text-anchor="start" font-weight="600">04-1</text>
+<text x="152" y="928" font-size="34" class="heading" text-anchor="start">Notebook与</text>
+<text x="152" y="974" font-size="34" class="heading" text-anchor="start">DataFrame入门</text>
+<text x="152" y="1038" font-size="26" class="muted" text-anchor="start">读表、选列与筛行</text>
+</g>
+<line x1="430" y1="945" x2="457" y2="945" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-04-2">
+<rect x="468" y="824" width="296" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="496" y="874" font-size="30" class="teal" text-anchor="start" font-weight="600">04-2</text>
+<text x="496" y="928" font-size="34" class="heading" text-anchor="start">数据工作规范</text>
+<text x="496" y="974" font-size="34" class="heading" text-anchor="start">与GitHub协作</text>
+<text x="496" y="1038" font-size="26" class="muted" text-anchor="start">规范、版本与互审</text>
+</g>
+<line x1="774" y1="945" x2="801" y2="945" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-04-3">
+<rect x="812" y="824" width="296" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="840" y="874" font-size="30" class="teal" text-anchor="start" font-weight="600">04-3</text>
+<text x="840" y="928" font-size="34" class="heading" text-anchor="start">数据清洗、连接</text>
+<text x="840" y="974" font-size="34" class="heading" text-anchor="start">与样本检查</text>
+<text x="840" y="1038" font-size="26" class="muted" text-anchor="start">检查输入与合并结果</text>
+</g>
+<line x1="1118" y1="945" x2="1145" y2="945" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-04-4">
+<rect x="1156" y="824" width="296" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1184" y="874" font-size="30" class="teal" text-anchor="start" font-weight="600">04-4</text>
+<text x="1184" y="928" font-size="34" class="heading" text-anchor="start">变量构造、统计</text>
+<text x="1184" y="974" font-size="34" class="heading" text-anchor="start">与结果交付</text>
+<text x="1184" y="1038" font-size="26" class="muted" text-anchor="start">构造变量，汇报统计</text>
+</g>
+<line x1="1462" y1="945" x2="1489" y2="945" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-04-5">
+<rect x="1500" y="824" width="296" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1528" y="874" font-size="30" class="teal" text-anchor="start" font-weight="600">04-5</text>
+<text x="1528" y="928" font-size="34" class="heading" text-anchor="start">面板数据</text>
+<text x="1528" y="974" font-size="34" class="heading" text-anchor="start">与时间对齐</text>
+<text x="1528" y="1038" font-size="26" class="muted" text-anchor="start">检查键与时间间隔</text>
+</g>
+<path d="M 960 1078 V 1110 Q 960 1126 976 1126 H 1288 Q 1304 1126 1304 1110 V 1078" fill="none" stroke="#35665F" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" marker-end="url(#arrow-teal)"/>
+<text x="1132" y="1182" font-size="30" class="teal" text-anchor="middle" font-weight="500">同一企业横截面表</text>
+<text x="1648" y="1132" font-size="29" class="muted" text-anchor="middle">另用年度模拟数据</text>
+<text x="1648" y="1176" font-size="29" class="muted" text-anchor="middle">及日度、财报案例</text>
+<line x1="960" y1="1266" x2="960" y2="1296" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<text x="960" y="1335" font-size="30" class="muted" text-anchor="middle">从数据观察进入因子理论与量化投资</text>
+<rect x="96" y="1370" width="1728" height="370" rx="38" fill="#F7F1DE"/>
+<text x="124" y="1433" font-size="38" class="heading" text-anchor="start">因子与量化研究</text>
+<text x="1796" y="1433" font-size="28" class="muted" text-anchor="end">第五讲 · 05-1—05-3</text>
+<g id="course-05-1">
+<rect x="124" y="1464" width="528" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="152" y="1514" font-size="30" class="teal" text-anchor="start" font-weight="600">05-1</text>
+<text x="152" y="1568" font-size="38" class="heading" text-anchor="start">因子与因子模型</text>
+<text x="152" y="1614" font-size="38" class="heading" text-anchor="start">理论基础</text>
+<text x="152" y="1678" font-size="29" class="muted" text-anchor="start">美国 FF3 + 动量：真实数据观察</text>
+</g>
+<line x1="668" y1="1585" x2="686" y2="1585" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-05-2">
+<rect x="696" y="1464" width="528" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="724" y="1514" font-size="30" class="teal" text-anchor="start" font-weight="600">05-2</text>
+<text x="724" y="1568" font-size="38" class="heading" text-anchor="start">量化投资导论</text>
+<text x="724" y="1678" font-size="29" class="muted" text-anchor="start">定义、历史、策略与研究流程</text>
+</g>
+<line x1="1240" y1="1585" x2="1258" y2="1585" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<g id="course-05-3">
+<rect x="1268" y="1464" width="528" height="242" rx="28" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5" filter="url(#shadow)"/>
+<text x="1296" y="1514" font-size="30" class="teal" text-anchor="start" font-weight="600">05-3</text>
+<text x="1296" y="1568" font-size="38" class="heading" text-anchor="start">因子评估、组合回测</text>
+<text x="1296" y="1614" font-size="38" class="heading" text-anchor="start">与机器学习入口</text>
+<text x="1296" y="1678" font-size="29" class="muted" text-anchor="start">EP 评估 → 回测 → 预测得分</text>
+</g>
+<line x1="100" y1="1808" x2="135" y2="1808" stroke="#D4B48C" stroke-width="2.5" stroke-linecap="round" marker-end="url(#arrow-gold)"/>
+<text x="150" y="1818" font-size="28" class="muted" text-anchor="start">学习顺序</text>
+<line x1="354" y1="1808" x2="389" y2="1808" stroke="#35665F" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow-teal)"/>
+<text x="404" y="1818" font-size="28" class="muted" text-anchor="start">数据承接</text>
+<text x="1824" y="1818" font-size="28" class="muted" text-anchor="end">中山大学岭南学院 · 刘晓彬 副教授</text>
+</svg>
