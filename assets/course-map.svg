@@ -1,13 +1,13 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2692" viewBox="0 0 1920 2692" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="1920" height="2848" viewBox="0 0 1920 2848" role="img" aria-labelledby="title desc">
 <title id="title">经济金融机器学习：课件关系图</title>
-<desc id="desc">目前已发放 15 份课件。上层从导论到 AI 底座与提示词、CLAUDE 规则与任务规划、Skill 与子代理。下层第四讲依次学习 Notebook 与 DataFrame 入门、数据规范与 GitHub 协作、清洗连接与样本检查、变量统计与结果交付、面板与时间对齐。金色箭头表示学习顺序，青绿色箭头表示 04-3 的同一企业横截面表交给 04-4。04-5 另用年度模拟数据及日度、财报案例。第三层依次为 05-1 因子与因子模型理论基础、05-2 量化投资导论、05-3 因子评估、组合回测与机器学习入口；05-1 使用美国 FF3 与动量真实月度数据。机器学习部分已发放三个传统机器学习专题，依次为线性模型与惩罚回归、数据降维模型、K 近邻与决策树。</desc>
+<desc id="desc">目前已发放 16 份课件。上层从导论到 AI 底座与提示词、CLAUDE 规则与任务规划、Skill 与子代理。下层第四讲依次学习 Notebook 与 DataFrame 入门、数据规范与 GitHub 协作、清洗连接与样本检查、变量统计与结果交付、面板与时间对齐。金色箭头表示学习顺序，青绿色箭头表示 04-3 的同一企业横截面表交给 04-4。04-5 另用年度模拟数据及日度、财报案例。第三层依次为 05-1 因子与因子模型理论基础、05-2 量化投资导论、05-3 因子评估、组合回测与机器学习入口；05-1 使用美国 FF3 与动量真实月度数据。机器学习部分已发放四个传统机器学习专题，依次为线性模型与惩罚回归、数据降维模型、K 近邻与决策树、随机森林与提升法。</desc>
 <defs>
   <filter id="shadow" x="-15%" y="-15%" width="130%" height="140%"><feDropShadow dx="0" dy="8" stdDeviation="13" flood-color="#3E2028" flood-opacity="0.035"/></filter>
   <marker id="arrow-gold" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M 2 2 L 8 6 L 2 10" fill="none" stroke="#D4B48C" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
   <marker id="arrow-teal" viewBox="0 0 12 12" refX="9" refY="6" markerWidth="10" markerHeight="10" orient="auto-start-reverse"><path d="M 2 2 L 8 6 L 2 10" fill="none" stroke="#35665F" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></marker>
   <style>text { font-family: -apple-system, BlinkMacSystemFont, 'SF Pro Display', 'PingFang SC', 'Helvetica Neue', Arial, sans-serif; } .heading { fill: #3E2028; font-weight: 600; } .muted { fill: #76675D; } .teal { fill: #35665F; }</style>
 </defs>
-<rect width="1920" height="2692" fill="#FDF8E8"/>
+<rect width="1920" height="2848" fill="#FDF8E8"/>
 
 <text x="96" y="156" font-size="82" class="heading" text-anchor="start">经济金融机器学习</text>
 <text x="100" y="218" font-size="34" class="muted" text-anchor="start">从 AI 协作与数据处理，进入因子研究和机器学习应用。</text>
@@ -122,9 +122,9 @@
 <text x="124" y="1834" font-size="30" class="muted" text-anchor="start">加入历史行情信号，由单项评分进入模型综合评分</text>
 <line x1="1532" y1="1754" x2="1532" y2="1858" stroke="#35665F" stroke-width="3" stroke-linecap="round" marker-end="url(#arrow-teal)"/>
 
-<rect x="96" y="1870" width="1728" height="668" rx="24" fill="#F7F1DE"/>
+<rect x="96" y="1870" width="1728" height="824" rx="24" fill="#F7F1DE"/>
 <text x="128" y="1940" font-size="46" class="heading" text-anchor="start">机器学习方法与金融应用</text>
-<text x="1782" y="1937" font-size="29" class="teal" text-anchor="end">ML1–ML3</text>
+<text x="1782" y="1937" font-size="29" class="teal" text-anchor="end">ML1–ML4</text>
 <text x="128" y="2020" font-size="38" class="heading" text-anchor="start">传统机器学习</text>
 <g id="course-ML1" data-status="released">
 <rect x="128" y="2050" width="1556" height="121" rx="24" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5"/>
@@ -152,9 +152,18 @@
 <text x="900" y="2411" font-size="29" class="muted" text-anchor="start">从最近的邻居或同一片树叶获得预测</text>
 <text x="900" y="2456" font-size="29" class="muted" text-anchor="start">银行订购分类与股票收益预测</text>
 </g>
-<path d="M 100 2618 h 39" fill="none" stroke="#B68B56" stroke-width="3"/><path d="M 132 2612 l 7 6 l -7 6" fill="none" stroke="#B68B56" stroke-width="3"/>
-<text x="154" y="2628" font-size="28" class="muted" text-anchor="start">学习顺序</text>
-<path d="M 361 2618 h 39" fill="none" stroke="#35665F" stroke-width="3"/><path d="M 393 2612 l 7 6 l -7 6" fill="none" stroke="#35665F" stroke-width="3"/>
-<text x="415" y="2628" font-size="28" class="muted" text-anchor="start">数据承接</text>
-<text x="1824" y="2628" font-size="28" class="muted" text-anchor="end">中山大学岭南学院 · 刘晓彬 副教授</text>
+<path d="M 455 2489 v 20 m -7 -7 l 7 7 l 7 -7" fill="none" stroke="#B68B56" stroke-width="3" stroke-linejoin="round"/>
+<g id="course-ML4" data-status="released">
+<rect x="128" y="2518" width="1556" height="121" rx="24" fill="#FFFCF5" stroke="#D4B48C" stroke-width="1.5"/>
+<text x="156" y="2567" font-size="32" class="teal" text-anchor="start">ML4</text>
+<text x="156" y="2610" font-size="27" class="muted" text-anchor="start">已发放</text>
+<text x="356" y="2590" font-size="36" class="heading" text-anchor="start">随机森林与提升法</text>
+<text x="900" y="2567" font-size="29" class="muted" text-anchor="start">随机森林平均多棵树的预测</text>
+<text x="900" y="2612" font-size="29" class="muted" text-anchor="start">提升法逐轮拟合新树，修正已有预测</text>
+</g>
+<path d="M 100 2774 h 39" fill="none" stroke="#B68B56" stroke-width="3"/><path d="M 132 2768 l 7 6 l -7 6" fill="none" stroke="#B68B56" stroke-width="3"/>
+<text x="154" y="2784" font-size="28" class="muted" text-anchor="start">学习顺序</text>
+<path d="M 361 2774 h 39" fill="none" stroke="#35665F" stroke-width="3"/><path d="M 393 2768 l 7 6 l -7 6" fill="none" stroke="#35665F" stroke-width="3"/>
+<text x="415" y="2784" font-size="28" class="muted" text-anchor="start">数据承接</text>
+<text x="1824" y="2784" font-size="28" class="muted" text-anchor="end">中山大学岭南学院 · 刘晓彬 副教授</text>
 </svg>
